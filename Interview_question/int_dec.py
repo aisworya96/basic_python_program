@@ -7,3 +7,4 @@ print(decimal_num)
 # reverse a string using extended slicing technique
 string = "Aisworya Panda"
 print(string[::-1])
+
