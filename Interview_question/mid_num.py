@@ -22,3 +22,7 @@ res_lst = []
 for i in range(0, len(lst1)):
     res_lst.append(lst1[i] + lst2[i])
 print(res_lst)
+
+# Counting the White Spaces in a String
+string = "P r ogramm in g "
+print(string.count(' '))
