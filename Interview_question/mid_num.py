@@ -5,3 +5,10 @@ midElement = int((len(numList)/2))
 
 print(numList[midElement])
 
+# Converting a List into a String
+
+lst = ["P", "Y", "T", "H", "O", "N"]
+string = ''.join(lst)
+
+print(string)
+print(type(string))
