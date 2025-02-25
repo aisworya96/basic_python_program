@@ -11,4 +11,8 @@ def remove_duplicates(nums):
 # Example usage:
 nums = [1, 1, 2, 2, 3, 3, 4, 5, 5, 6]
 n = remove_duplicates(nums)
+
 print("Array after removing duplicates:", nums[:n])
+
+
+
